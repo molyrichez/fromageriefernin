@@ -1,16 +1,16 @@
 @font-face {
     font-family: "Mesmerize";
-    src: url("mesmerize-rg-webfont.woff") format('woff');
+    src: url("../assets/mesmerize-rg-webfont.woff") format('woff');
 }
 
 @font-face {
     font-family: "Mesmerize";
-    src: url("mesmerize-bd-webfont.woff") format('woff');
+    src: url("../assets/mesmerize-bd-webfont.woff") format('woff');
     font-weight: bold;
 }
 
 @font-face {
     font-family: "Mesmerize";
-    src: url("mesmerize-rg-it-webfont.woff") format('woff');
+    src: url("../assets/mesmerize-rg-it-webfont.woff") format('woff');
     font-style: italic;
 }
