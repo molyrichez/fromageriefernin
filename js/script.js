@@ -7,7 +7,7 @@ $(function() {
   $('.rotate').scrollRotate()
 })
 
-/* parallawe avec texte */
+/* parallaxe avec texte */
 $(function() {
     $('.fixed')
     .each(function() {
